@@ -22,9 +22,14 @@ We are investigating on the behalf of a graduate recruitment agency who are look
 
 Hypotheses:
 
-Do graduates with STEM degrees earn significantly higher starting salaries than graduates with Humanities degrees?
+(1) Do graduates with STEM degrees earn significantly higher starting salaries than graduates with Humanities degrees?
 
-Do graduates from the University of Wisconsin, Madison earn significantly higher starting salaries in comparison to graduates form other United States Universities?
+(2) Does college Type does not affect your start salary and salary increase in mid career. 
 
-Do STEM students have a statistical difference in the the number of A grades when compared to the Humanities?
+(3) Do STEM students have a statistical difference in the the number of A grades when compared to the Humanities at the Univeristy of Wisconsin, Madison?
 
+Findings:
+(1) STEM degree graduates earn on average $13,000 more than Humanities gradutes.
+(2) State school graduates earn the least on average in terms of starting salary and show the smallest increase to mid career salary in comparison to other types of institutions.
+(3) Yes there is a statsitcally significant increase in the number of students earning A grades in STEM fields when compared to that of Humanities.
+(3) 
